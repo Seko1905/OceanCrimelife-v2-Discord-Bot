@@ -1,0 +1,38 @@
+{
+   "token": "OTM2NjYzMzM1OTM0NTAwOTA1.YfQdtQ.GbrCQ__hcgZ5BshTtqZPRlegpU8",
+   "prefix": "t!",
+   "ownerIDS": [
+      "843830197593833515"
+   ],
+   "memer_api": "get it from: https://discord.gg/Mc2FudJkgP",
+   "status": {
+      "text": "{prefix}help | Ocean Crimelife",
+      "text2": "by: https://dsc.gg/oceancv2",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/milratoDiscordBot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "32f7ea96aaab42b088e0e5861196d9cb",
+      "clientID": "10a521335e924e8681e691860a94a4d4"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
